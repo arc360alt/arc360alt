@@ -1,3 +1,6 @@
+![Nxuzi Wallpaper](https://github.com/arc360alt/arc360alt/assets/155182753/7ba5a241-5bc9-4279-ae6d-081e58cfc0f6)
+
+
 <h1 align="center">Hi, I'm Arc</h1>
 <h3 align="center">I am a Self tough Developer from Illinois that mainly codes in Python</h3>
 
