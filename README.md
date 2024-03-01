@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate whit anyone whit a good idea [https://discord.gg/xdQeqqEbuc](https://discord.gg/xdQeqqEbuc)
 
-- 🤝 I’m looking for help with getting my ScratchGUI working [https://github.com/arc360alt/scratch-gui](https://github.com/arc360alt/scratch-gui)
+- 🤝 Currently dont need any help whith anything, if u got ideas, check out my dc.
 
 - 👨‍💻 All of my projects are available at [https://www.arc360.live](https://www.arc360.live)
 
