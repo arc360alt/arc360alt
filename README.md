@@ -4,7 +4,7 @@
 <h1 align="center">Hi, I'm Arc</h1>
 <h3 align="center">I am a Self tough Developer from The Northern Hemisphere that mainly codes in Python</h3>
 
-- 🔭 I’m currently working on **A web browser and minecraft clone**
+- 🔭 I’m currently working on **ArcBrowser and ArcCraft**
 
 - 🌱 I’m currently learning **C++ and C#**
 
