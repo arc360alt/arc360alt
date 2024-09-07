@@ -16,7 +16,7 @@
 
 - 😎 Check out my friend: [https://github.com/2010snips](https://github.com/2010snips)
 
-- Socials: [YOUTUBE](https://www.youtube.com/@Arc360), [TIKTOK](https://www.tiktok.com/@arc360yt), [Other Sodcals](htps://www.arc360.live)
+- 🌐 Socials: [YOUTUBE](https://www.youtube.com/@Arc360), [TIKTOK](https://www.tiktok.com/@arc360yt), [Other Sodcals](htps://www.arc360.live)
 
 <h3 align="left">Other Stuff:</h3>
 <div align="left">
