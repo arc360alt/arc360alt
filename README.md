@@ -1,7 +1,7 @@
 ![FIXEDAGAIN](https://github.com/user-attachments/assets/e33472a0-1956-41a1-913a-40866c9c0e95)
 
 
-<h1 align="center">Hi, I'm Arc From Arc360 Studios👋</h1>
+<h1 align="center">Hi, I'm Ark From Arc360 Studios👋</h1>
 <h3 align="center">I am a Self tough Developer from The Northern Hemisphere that mainly codes in Python</h3>
 
 - 🔭 I’m currently working on **CoreOS 3.0, a FAKE operating system**
@@ -10,13 +10,13 @@
 
 - 👯 I’m looking to collaborate whit anyone whit a good idea [https://discord.gg/xdQeqqEbuc](https://discord.gg/xdQeqqEbuc)
 
-- 🤝 Currently dont need any help whith anything, if u got ideas, check out my dc.
-
 - 👨‍💻 All of my projects are available at [https://www.arc360.live](https://www.arc360.live) & [https://arc360alt.github.io/arcsite/](https://arc360alt.github.io/arcsite/)
 
 - 📫 How to reach me **voidyt16@gmail.com**
 
 - 😎 Check out my friend: [https://github.com/2010snips](https://github.com/2010snips)
+
+- Socials: [YOUTUBE](https://www.youtube.com/@Arc360), [TIKTOK](https://www.tiktok.com/@arc360yt), [Other Sodcals](htps://www.arc360.live)
 
 <h3 align="left">Other Stuff:</h3>
 <div align="left">
