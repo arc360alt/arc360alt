@@ -1,10 +1,10 @@
-![FIXED](https://github.com/arc360alt/arc360alt/assets/155182753/f25adf54-c86b-46e1-9852-e2fbb85a1a78)
+![FIXEDAGAIN](https://github.com/user-attachments/assets/e33472a0-1956-41a1-913a-40866c9c0e95)
 
 
 <h1 align="center">Hi, I'm Arc From Arc360 Studios👋</h1>
 <h3 align="center">I am a Self tough Developer from The Northern Hemisphere that mainly codes in Python</h3>
 
-- 🔭 I’m currently working on **ArcOS my linux distro**
+- 🔭 I’m currently working on **CoreOS 3.0, a FAKE operating system**
 
 - 🌱 I’m currently learning **C++ and C#**
 
