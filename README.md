@@ -2,13 +2,13 @@
 
 
 <h1 align="center">Hi, I'm Ark From Arc360 Studios👋</h1>
-<h3 align="center">I am a Self tough Developer from The Northern Hemisphere that mainly codes in Python</h3>
+<h3 align="center">I am a Self tough Developer from The Northern Hemisphere who mainly codes in Python</h3>
 
-- 🔭 I’m currently working on **CoreOS 3.0, a FAKE operating system**
+- 🔭 I’m currently working on **ArcGPT, an AI chatbot that is made completely in penguinmod**
 
 - 🌱 I’m currently learning **C++ and C#**
 
-- 👯 I’m looking to collaborate whit anyone whit a good idea [https://discord.gg/xdQeqqEbuc](https://discord.gg/xdQeqqEbuc)
+- 👯 I’m looking to collaborate with anyone with a good idea [https://discord.gg/xdQeqqEbuc](https://discord.gg/xdQeqqEbuc)
 
 - 👨‍💻 All of my projects are available at [https://www.arc360.live](https://www.arc360.live) & [https://arc360alt.github.io/arcsite/](https://arc360alt.github.io/arcsite/)
 
