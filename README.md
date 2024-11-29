@@ -4,7 +4,7 @@
 <h1 align="center">Hi, I'm Ark From Arc360 Studios👋</h1>
 <h3 align="center">I am a Self tough Developer from The Northern Hemisphere who mainly codes in Python</h3>
 
-- 🔭 I’m currently working on **ArcGPT, an AI chatbot that is made completely in penguinmod**
+- 🔭 I’m currently working on **Arc's Modpacks, a group of some of my mod packs that I made**
 
 - 🌱 I’m currently learning **C++ and C#**
 
