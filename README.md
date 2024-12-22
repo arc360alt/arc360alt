@@ -1,7 +1,7 @@
-![FIXEDAGAIN](https://github.com/user-attachments/assets/e33472a0-1956-41a1-913a-40866c9c0e95)
-
+![FIXEDAGAIN](https://github.com/user-attachments/assets/8b8470a8-1263-4f84-8345-ab1e992ac990)
 
 <h1 align="center">Hi, I'm Ark From Arc360 Studios👋</h1>
+<h2 align="center">Merry Christmas Guys!</h2>
 <h3 align="center">I am a Self tough Developer from The Northern Hemisphere who mainly codes in Python</h3>
 
 - 🔭 I’m currently working on **ArkIDE, a fork of Turbowrap**
