@@ -18,6 +18,12 @@
 
 - 🌐 Socials: [YOUTUBE](https://www.youtube.com/@Arc360), [TIKTOK](https://www.tiktok.com/@arc360yt), [Other Socials](https://www.arc360.xyz)
 
+- 🎮 Proud owner of a Steam Deck OLED 1TB :D
+
+- 📱 Google Pixel 8 Pro
+
+- 🕛CST (UTC -06:00)
+
 <h3 align="left">Other Stuff:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
