@@ -24,6 +24,10 @@
 
 - 🕛CST (UTC -06:00)
 
+- 💻Lenovo Legion Pro 7 16IRX8H
+
+- 🧑‍💻 UE5 | Godot | Python
+
 <h3 align="left">Other Stuff:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
