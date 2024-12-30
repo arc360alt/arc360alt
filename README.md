@@ -4,7 +4,7 @@
 <h2 align="center">Merry Christmas Guys!</h2>
 <h3 align="center">I am a Self tough Developer from The Northern Hemisphere who mainly codes in Python</h3>
 
-- 🔭 I’m currently working on **ArkIDE, a fork of Turbowrap**
+- 🔭 I’m currently working on **ArcGPT, an AI chatbot, ArcOS, an operating system made in my free time.**
 
 - 🌱 I’m currently learning **C++ and C#**
 
