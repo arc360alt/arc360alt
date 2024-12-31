@@ -1,7 +1,7 @@
 ![FIXEDAGAIN](https://github.com/user-attachments/assets/8b8470a8-1263-4f84-8345-ab1e992ac990)
 
 <h1 align="center">Hi, I'm Ark From Arc360 Studios👋</h1>
-<h2 align="center">Merry Christmas Guys!</h2>
+<h2 align="center">My Github Account Is Now 1 Year Old!!!! December 29th 2023 - Current</h2>
 <h3 align="center">I am a Self tough Developer from The Northern Hemisphere who mainly codes in Python</h3>
 
 - 🔭 I’m currently working on **ArcGPT, an AI chatbot, ArcOS, an operating system made in my free time.**
