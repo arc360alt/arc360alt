@@ -1,3 +1,4 @@
+chat we have under 24 hours until 2025, crazy
 ![FIXEDAGAIN](https://github.com/user-attachments/assets/988d59f7-cf53-4c30-bdf5-b9aa43a50cd1)
 
 <h1 align="center">Hi, I'm Ark From Arc360 Studios👋</h1>
