@@ -4,8 +4,6 @@
 <h2 align="center">My Github Account Is Now 1 Year Old!!!! December 29th 2023 - Current</h2>
 <h3 align="center">I am a Self tough Developer from The Northern Hemisphere who mainly codes in Python</h3>
 
-HAPPY NEW YEARS, FIRST COMMIT OF 2025 (for me at least)
-
 - 🔭 I’m currently working on **ArcGPT, an AI chatbot, ArcOS, an operating system made in my free time.**
 
 - 🌱 I’m currently learning **C++ and C#**
