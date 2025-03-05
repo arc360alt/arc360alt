@@ -18,6 +18,8 @@
 
 - 🌐 Socials: [YOUTUBE](https://www.youtube.com/@Arc360), [TIKTOK](https://www.tiktok.com/@arc360yt), [Other Socials](https://www.arc360.xyz)
 
+- Find out more about me at [Arc360hub.com](https://arc360hub.com)
+
 - 🎮 Proud owner of a Steam Deck OLED 1TB :D
 
 - 📱 Google Pixel 8 Pro
