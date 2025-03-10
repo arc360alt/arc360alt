@@ -28,7 +28,7 @@
 
 - 💻Lenovo Legion Pro 7 16IRX8H
 
-- 🧑‍💻 UE5 | Godot | Python
+- 🧑‍💻 UE5 | Godot | Python | HTML+CSS
 
 <h3 align="left">Other Stuff:</h3>
 <div align="left">
