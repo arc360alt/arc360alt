@@ -65,4 +65,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arc360alt&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
+# What im doing rn ⬇️
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/719973177954140210)](https://discord.com/users/:719973177954140210)
+
 ###
