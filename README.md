@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate with anyone with a good idea [https://discord.gg/xdQeqqEbuc](https://discord.gg/xdQeqqEbuc)
 
-- 👨‍💻 All of my projects are available at [https://www.arc360.live](https://www.arc360.live) & [https://arc360alt.github.io/arcsite/](https://arc360alt.github.io/arcsite/)
+- 👨‍💻 All of my projects are available at [https://arc360alt.github.io/arcsite/](https://arc360alt.github.io/arcsite/)
 
 - 📫 How to reach me **voidyt16@gmail.com**
 
