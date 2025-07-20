@@ -1,7 +1,7 @@
 ![FIXEDAGAIN](https://github.com/user-attachments/assets/988d59f7-cf53-4c30-bdf5-b9aa43a50cd1)
 
 <h1 align="center">Hi, I'm Ark From Arc360 Studios👋</h1>
-<h3 align="center">I am a Self tough Developer from The Northern Hemisphere who mainly codes in Python</h3>
+<h3 align="center">I am a Self taught Developer from The Northern Hemisphere who mainly codes in Python</h3>
 
 - 🔭 I’m currently working on **ArcGPT, an AI chatbot, ArcOS, an operating system made in my free time.**
 
