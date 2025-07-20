@@ -1,4 +1,4 @@
-![FIXEDAGAIN](https://github.com/user-attachments/assets/988d59f7-cf53-4c30-bdf5-b9aa43a50cd1)
+<img width="1920" height="800" alt="Rea" src="https://github.com/user-attachments/assets/d3a8918a-6092-4f9e-8734-c418ef958754" />
 
 <h1 align="center">Hi, I'm Ark From Arc360 Studios👋</h1>
 <h3 align="center">I am a Self taught Developer from The Northern Hemisphere who mainly codes in Python</h3>
