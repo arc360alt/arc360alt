@@ -1,7 +1,6 @@
 ![FIXEDAGAIN](https://github.com/user-attachments/assets/988d59f7-cf53-4c30-bdf5-b9aa43a50cd1)
 
 <h1 align="center">Hi, I'm Ark From Arc360 Studios👋</h1>
-<h2 align="center">My Github Account Is Now 1 Year Old!!!! December 29th 2023 - Current</h2>
 <h3 align="center">I am a Self tough Developer from The Northern Hemisphere who mainly codes in Python</h3>
 
 - 🔭 I’m currently working on **ArcGPT, an AI chatbot, ArcOS, an operating system made in my free time.**
@@ -10,7 +9,7 @@
 
 - 👯 I’m looking to collaborate with anyone with a good idea [https://discord.gg/xdQeqqEbuc](https://discord.gg/xdQeqqEbuc)
 
-- 👨‍💻 All of my projects are available at [https://arc360alt.github.io/arcsite/](https://arc360alt.github.io/arcsite/)
+- 👨‍💻 All of my projects are available at [https://arc360alt.github.io/arcsite/](https://arc360hub.com)
 
 - 📫 How to reach me **voidyt16@gmail.com**
 
