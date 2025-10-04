@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Ark From Arc360 Studios👋</h1>
 <h3 align="center">I am a Self taught Developer from The Northern Hemisphere who mainly codes in Python</h3>
 
-- 🔭 I’m currently working on **ArcGPT, an AI chatbot, ArcOS, an operating system made in my free time.**
+- 🔭 I’m currently working on **ArkIDE, a fork of scratch that i made when i was board, and a bunch of other stuff.**
 
 - 🌱 I’m currently learning **C++ and C#**
 
