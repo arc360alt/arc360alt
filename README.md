@@ -3,9 +3,9 @@
 <h1 align="center">Hi, I'm Ark From Arc360 Studios👋</h1>
 <h3 align="center">I am a Self taught Developer from The Northern Hemisphere who mainly codes in Python</h3>
 
-- 🔭 I’m currently working on **SyntaxAI and ArkIDE**
+- 🔭 I’m currently working on **ArkIDE, A Penguinmod Fork**
 
-- 🌱 I’m currently learning **C++ and C#**
+- 🌱 I’m currently learning **More web development languages**
 
 - 👯 I’m looking to collaborate with anyone with a good idea [https://discord.gg/xdQeqqEbuc](https://discord.gg/xdQeqqEbuc)
 
@@ -27,7 +27,7 @@
 
 - 💻Lenovo Legion Pro 7 16IRX8H
 
-- 🧑‍💻 UE5 | Godot | Python | HTML+CSS
+- 🧑‍💻 UE5 | Godot | Python | HTML+CSS+JS
 
 <h3 align="left">Other Stuff:</h3>
 <div align="left">
