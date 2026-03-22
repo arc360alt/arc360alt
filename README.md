@@ -28,7 +28,7 @@
 
 - 💻Lenovo Legion Pro 7 16IRX8H
 
-- 🧑‍💻 svelte | nodejs | Python | HTML+CSS+JS
+- 🧑‍💻 svelte | nodejs | Python | HTML+CSS+JS | Java | Backend stuff
 
 
 ## 🌐 Socials:
