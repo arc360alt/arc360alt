@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi, I'm Ark👋</h1>
 <h3 align="center">I am a Self taught Developer from The Northern Hemisphere who mainly code websites and stuff</h3>
 
