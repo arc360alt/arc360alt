@@ -2,7 +2,7 @@
 <h3 align="center">I am a Self taught Developer from The Northern Hemisphere who mainly code websites and stuff</h3>
 
 # 💫 About Me:
-- 🔭 I’m currently working on **ArkIDE, A Penguinmod Fork**
+- 🔭 I’m currently working on **OptiArk, a minecraft modpack, and ArkRinth, a Minecraft Launcher**
 
 - 🌱 I’m currently learning **More web development languages**
 
