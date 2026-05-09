@@ -2,7 +2,7 @@
 <h3 align="center">I am a Self taught Developer from The Northern Hemisphere who mainly codes websites and stuff</h3>
 
 # 💫 About Me:
-- 🔭 I’m currently working on **OptiArk, a minecraft modpack, and ArkRinth, a Minecraft Launcher**
+- 🔭 I’m currently working on **OptiArk, a minecraft modpack, Progression Overhaul, a Minecraft Mod, and StormView, an advanced weather app**
 
 - 🌱 I’m currently learning **More web development languages**
 
