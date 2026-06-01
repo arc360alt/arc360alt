@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://arc360hub.com](https://arc360hub.com)
 
-- 📫 How to reach me **voidyt16@gmail.com**
+- 📫 How to reach me **voidyt16@gmail.com** < I dont read my emails so just contact me via discord 
 
 - 😎 Check out my friend: [https://github.com/2010snips](https://github.com/2010snips)
 
