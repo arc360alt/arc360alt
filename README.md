@@ -24,7 +24,7 @@
 
 - 🕛CST (UTC -06:00)
 
-- 💻Lenovo Legion Pro 7 16IRX8H
+- 💻 AMD Ryzen 7 5700G | RX 7600 8GB OC | Asus TUF Gaming x570-plus
 
 - 🧑‍💻 svelte | nodejs | Python | HTML+CSS+JS | Java | Backend stuff
 
