@@ -26,7 +26,7 @@
 
 - 💻 AMD Ryzen 7 5700G | RX 7600 8GB OC | Asus TUF Gaming x570-plus
 
-- 🧑‍💻 svelte | nodejs | Python | HTML+CSS+JS | Java | Backend stuff
+- 🧑‍💻 svelte | nodejs | Python | HTML+CSS+JS | Java | Backend stuff 
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/aPRchS3Zdp) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCaMtF2tn42AcTMpJjeY3d8w) 
