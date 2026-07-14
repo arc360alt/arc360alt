@@ -19,3 +19,7 @@ i code things
 ---
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logoColor=white&logo=youtube)](https://youtube.com/@arc360) [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logoColor=white&logo=tiktok)](https://tiktok.com/@arc360yt) [![Website / Portfolio](https://img.shields.io/badge/Website_/_Portfolio-5A8EF0?style=for-the-badge&logoColor=white)](arc360hub.com)
+
+---
+
+Wanna make your profile look like this too? Use my new app: [Github Profile Widgets](https://github-profile-stuff.vercel.app/)!
