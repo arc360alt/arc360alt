@@ -1,49 +1,21 @@
-<h1 align="center">Hi, I'm Ark 👋</h1>
-<h3 align="center">I am a Self taught Developer from The Northern Hemisphere who mainly codes websites and stuff</h3>
+# Hi, I'm Nyx 👋
 
-# 💫 About Me:
-- 🔭 I’m currently working on **OptiArk, a minecraft modpack, Progression Overhaul, a Minecraft Mod, and StormView, an advanced weather app**
+i code things
 
-- 🌱 I’m currently learning **More web development languages**
+## GitHub Stats
 
-- 👯 I’m looking to collaborate with anyone with a good idea [https://discord.gg/xdQeqqEbuc](https://discord.gg/xdQeqqEbuc)
+![Commit Graph for arc360alt](https://github-profile-stuff.vercel.app/commitgraph?ghname=arc360alt&theme=dark)
 
-- 👨‍💻 All of my projects are available at [https://arc360hub.com](https://arc360hub.com)
+![Repository Stats for arc360alt](https://github-profile-stuff.vercel.app/repocard?ghname=arc360alt&theme=dark)
 
-- 📫 How to reach me **voidyt16@gmail.com** < I dont read my emails so just contact me via discord 
+![Streak Card for arc360alt](https://github-profile-stuff.vercel.app/streakcard?ghname=arc360alt&theme=dark)
 
-- 😎 Check out my friend: [https://github.com/2010snips](https://github.com/2010snips)
+![Achievements for arc360alt](https://github-profile-stuff.vercel.app/badgecard?ghname=arc360alt&theme=dark)
 
-- 🌐 Socials: [YOUTUBE](https://www.youtube.com/@Arc360), [TIKTOK](https://www.tiktok.com/@arc360yt), [Other Socials](https://www.arc360.xyz)
+![Top Languages for arc360alt](https://github-profile-stuff.vercel.app/langcard?ghname=arc360alt&theme=dark&hide=HTML)
 
-- ⭐ Find out more about me at [my website](https://arc360hub.com)
-
-- 🎮 Proud owner of a Steam Deck OLED 1TB :D
-
-- 📱 Google Pixel 8 Pro
-
-- 🕛CST (UTC -06:00)
-
-- 💻 AMD Ryzen 7 5700G | RX 7600 8GB OC | Asus TUF Gaming x570-plus
-
-- 🧑‍💻 svelte | nodejs | Python | HTML+CSS+JS | Java | Backend stuff 
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/aPRchS3Zdp) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCaMtF2tn42AcTMpJjeY3d8w) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=arc360alt&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=arc360alt&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arc360alt&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arc360alt&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy-tawny.vercel.app/?username=arc360alt&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=arc360alt&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Tech Stack](https://github-profile-stuff.vercel.app/techstack?icons=javascript%2Ctypescript%2Creact%2Cnodejs%2Cpython%2Cdocker%2Cgit%2Cfigma%2Cgodot%2Clinux%2Crust%2Csvelte&theme=dark&perline=8)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=arc360alt&icon=0&color=0)](https://visitcount.itsvg.in)
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logoColor=white&logo=youtube)](https://youtube.com/@arc360) [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logoColor=white&logo=tiktok)](https://tiktok.com/@arc360yt) [![Website / Portfolio](https://img.shields.io/badge/Website_/_Portfolio-5A8EF0?style=for-the-badge&logoColor=white)](arc360hub.com)****
