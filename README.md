@@ -4,7 +4,7 @@ i code things
 
 ## GitHub Stats
 
-<img src="https://github-profile-stuff.vercel.app/commitgraph?ghname=arc360alt&theme=dark&days=15" alt="Commit Graph for arc360alt" width="774" />
+<img src="https://github-profile-stuff.vercel.app/commitgraph?ghname=arc360alt&theme=dark&days=15" alt="Commit Graph for arc360alt" width="688" />
 
 <img src="https://github-profile-stuff.vercel.app/badgecard?ghname=arc360alt&theme=dark" alt="Achievements for arc360alt" width="624" />
 
