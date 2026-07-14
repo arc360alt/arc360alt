@@ -6,11 +6,11 @@ i code things
 
 ![Commit Graph for arc360alt](https://github-profile-stuff.vercel.app/commitgraph?ghname=arc360alt&theme=dark)
 
+![Achievements for arc360alt](https://github-profile-stuff.vercel.app/badgecard?ghname=arc360alt&theme=dark)
+
 ![Repository Stats for arc360alt](https://github-profile-stuff.vercel.app/repocard?ghname=arc360alt&theme=dark)
 
 ![Streak Card for arc360alt](https://github-profile-stuff.vercel.app/streakcard?ghname=arc360alt&theme=dark)
-
-![Achievements for arc360alt](https://github-profile-stuff.vercel.app/badgecard?ghname=arc360alt&theme=dark)
 
 ![Top Languages for arc360alt](https://github-profile-stuff.vercel.app/langcard?ghname=arc360alt&theme=dark&hide=HTML)
 
