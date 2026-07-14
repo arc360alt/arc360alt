@@ -4,17 +4,17 @@ i code things
 
 ## GitHub Stats
 
-![Commit Graph for arc360alt](https://github-profile-stuff.vercel.app/commitgraph?ghname=arc360alt&theme=dark)
+<img src="https://github-profile-stuff.vercel.app/commitgraph?ghname=arc360alt&theme=dark&days=15" alt="Commit Graph for arc360alt" width="774" />
 
-![Achievements for arc360alt](https://github-profile-stuff.vercel.app/badgecard?ghname=arc360alt&theme=dark)
+<img src="https://github-profile-stuff.vercel.app/badgecard?ghname=arc360alt&theme=dark" alt="Achievements for arc360alt" width="624" />
 
-![Repository Stats for arc360alt](https://github-profile-stuff.vercel.app/repocard?ghname=arc360alt&theme=dark)
+<img src="https://github-profile-stuff.vercel.app/repocard?ghname=arc360alt&theme=dark" alt="Repository Stats for arc360alt" width="460" />
 
-![Streak Card for arc360alt](https://github-profile-stuff.vercel.app/streakcard?ghname=arc360alt&theme=dark)
+<img src="https://github-profile-stuff.vercel.app/streakcard?ghname=arc360alt&theme=dark" alt="Streak Card for arc360alt" width="500" />
 
-![Top Languages for arc360alt](https://github-profile-stuff.vercel.app/langcard?ghname=arc360alt&theme=dark&hide=HTML)
+<img src="https://github-profile-stuff.vercel.app/langcard?ghname=arc360alt&theme=dark&hide=HTML" alt="Top Languages for arc360alt" width="420" />
 
-![Tech Stack](https://github-profile-stuff.vercel.app/techstack?icons=javascript%2Ctypescript%2Creact%2Cnodejs%2Cpython%2Cdocker%2Cgit%2Cfigma%2Cgodot%2Clinux%2Crust%2Csvelte&theme=dark&perline=8)
+<img src="https://github-profile-stuff.vercel.app/techstack?icons=javascript%2Ctypescript%2Creact%2Cnodejs%2Cpython%2Cdocker%2Cgit%2Cfigma%2Cgodot%2Clinux%2Crust%2Csvelte&theme=dark&perline=8" alt="Tech Stack" width="442" />
 
 ---
 
