@@ -1,6 +1,6 @@
 # Hi, I'm Nyx 👋
 
-i code things
+i code things - protogen - he/him - contribute to my garbage code please
 
 ## GitHub Stats
 
