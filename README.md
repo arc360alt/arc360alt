@@ -1,4 +1,4 @@
-# Hi, I'm Nyx 👋
+# Hi, I'm Nyx 👋 
 
 i code things - protogen - he/him - contribute to my garbage code please 
 
